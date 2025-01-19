@@ -4,7 +4,7 @@ Engineering Manager at [OfferZen](https://www.offerzen.com/) with a background i
 
 ## What I Do
 
-- 🎯 Engineering manager @ OfferZen
+- 🎯 Engineering management @ OfferZen
 - 💻 Building side projects with Laravel, Vue.js, and Svelte
 - 👨‍🏫 Mentoring developers and people looking to break into tech
   
