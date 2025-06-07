@@ -1,17 +1,17 @@
 ## Hi, I'm Jason 👋
 
-Engineering Manager at [OfferZen](https://www.offerzen.com/) with a background in full-stack development and education. Based in Cape Town, South Africa 🌍
+Tech Lead at [OfferZen](https://www.offerzen.com/) with a background in full-stack development and education. Based in Cape Town, South Africa 🌍
 
 ## What I Do
 
-- 🎯 Engineering management @ OfferZen
-- 💻 Building side projects with Laravel, Vue.js, and Svelte
+- 🎯 Building stuff @ OfferZen
+- 💻 Tinkering with side projects (mostly with Laravel & React)
 - 👨‍🏫 Mentoring developers and people looking to break into tech
   
 ## Current tech stack
 
 ```
-Frontend: Vue.js, Svelte, React
+Frontend: Inertia.js (React), Next.js, Astro
 Backend: Laravel (PHP), Rails (Ruby)
 ```
 
